@@ -1,0 +1,9 @@
+{
+  "name": "내 차 여기",
+  "short_name": "내차여기",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": []
+}
